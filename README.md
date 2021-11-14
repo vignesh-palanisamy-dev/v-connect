@@ -16,13 +16,14 @@ V-Connect is officially supported on following browsers:
 <img src="https://blog.ivrpowers.com/postimages/technologies/ivrpowers-web-browser.007.jpeg" alt="Supported browsers" /> </a>
 
 ## Demo
-<img src="https://user-images.githubusercontent.com/36820222/141684489-0c844369-d632-4d6b-9f81-650e4be94cb9.jpg">
-<img src="https://user-images.githubusercontent.com/36820222/141684496-397cb031-8b13-4242-83c0-b6184eecd4e5.jpg">
-<img src="https://user-images.githubusercontent.com/36820222/141684499-2560ca81-44a1-4e04-adbb-b1d3e173c1af.jpg">
-
-
 https://user-images.githubusercontent.com/36820222/141682772-cc0f100f-4ba0-409c-b709-7ee4d7d0e02b.mp4
 
+<div align="center">
+<img style="height:500px; width:235px;" src="https://user-images.githubusercontent.com/36820222/141684489-0c844369-d632-4d6b-9f81-650e4be94cb9.jpg">
+<img style="height:500px; width:235px;" src="https://user-images.githubusercontent.com/36820222/141684496-397cb031-8b13-4242-83c0-b6184eecd4e5.jpg">
+<img style="height:500px; width:235px;" src="https://user-images.githubusercontent.com/36820222/141684499-2560ca81-44a1-4e04-adbb-b1d3e173c1af.jpg">
+<img style="height:500px; width:235px;" src="https://user-images.githubusercontent.com/36820222/141684826-088f4b14-958e-4d95-ae28-e883b150ad98.png">
+</div>
 
 
 ## Project Setup
