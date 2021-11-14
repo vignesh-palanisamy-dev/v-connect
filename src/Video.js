@@ -31,7 +31,7 @@ let sendChannel = null;
 const config = {
   iceServers: [
     {
-      urls: ["stunserver.org"],
+      urls: ["stun:stun1.l.google.com:19302"], //"stun:stunserver.org"
     },
   ],
 };
