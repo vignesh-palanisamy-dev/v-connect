@@ -66,7 +66,15 @@ chrome://webrtc-internals/
 - Now V-Connect is not supported for users behind any Proxy or Router.
 - We are working on that to provide this suport very soon.
 
-For any quries please feel free to contact.
+## Deployment
+- Heroku free deployment 
+ 
+## Live
+<a href="https://en.wikipedia.org/wiki/WebRTC"> 
+https://v-connect-v1.herokuapp.com/
+</a>
+
+## For quries
 - Call/Whatsapp : 9500-3354-79
 - Mail : vignesh.palanisamy@recro.io
 
