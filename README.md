@@ -43,6 +43,11 @@ npm run build
 npm start
 ```
 
+### Run the project
+```bash
+http://localhost:5000/
+```
+
 ## Privacy 
 - V-Connect **does not store** anything doing in chat.
 - Video chat datas also **never stored** in a server.
